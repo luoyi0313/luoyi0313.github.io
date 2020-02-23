@@ -1,6 +1,11 @@
 # Beyond Feelings
 
+* Written by Vincent Ryan Ruggiero
+
+
 * [点击阅读中文版](/cn/) 
 * [Click to read English edition](/en/) 
-* For personal learning only.
 
+<br/>
+
+* For personal learning only.
