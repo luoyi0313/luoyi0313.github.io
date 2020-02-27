@@ -39,7 +39,6 @@ To appreciate the influence of ideas in people’s lives, consider the series of
 > The eugenicists’ concern inspired a variety of actions. Margaret Sanger’s Planned Parenthood urged the lower classes to practice contraception. Others succeeded in legalizing promoted forced sterilization, notably in Virginia. The U.S. Supreme Court upheld the Virginia law with Justice Oliver Wendell Holmes, Jr. declaring, “Three generations of imbeciles are enough.” Over the next five decades 7,500 women, including “unwed mothers, prostitutes, petty criminals and children with disciplinary problems” were sterilized. In addition, by 1950 over 150,000 supposedly “defective” children, many relatively normal, were held against their will in institutions. They “endured isolation, overcrowding, forced labor, and physical abuse including lobotomy, electroshock, and surgical sterilization.”
 >
 > Meanwhile, business leaders read the test results and decided, “ _We need policies to ensure that workers leave their minds at the factory gate and perform their assigned tasks mindlessly_ .” So they enacted those policies. Decades later, when Edwards Deming proposed his “quality control” ideas for involving workers in decision making, business leaders remembered those test results and ignored Deming’s advice. (In contrast, the Japanese welcomed Deming’s ideas; as a result, several of their industries surged ahead of their American competition.)
->
 
 These are the most obvious effects of hereditarianism but they are certainly not the only ones. Others include discrimination against racial and ethnic minorities and the often-paternalistic policies of government offered in response. (Some historians also link hereditarianism to the genocide that occurred in Nazi Germany.)
 
@@ -57,7 +56,7 @@ Television programmers use frequent scene shifts and sensory appeals such as car
 
 This manipulation has prevented many people from developing a mature attention span. They expect the classroom and the workplace to provide the same constant excitement they get from television. That, of course, is an impossible demand, and when it isn’t met they call their teachers boring and their work unfulfilling. Because such people seldom have the patience to read books that require them to think, many publishers have replaced serious books with light fare written by celebrities.
 
-Even when writers of serious books do manage to become published authors, they are often directed to give short, dramatic answers during promotional interviews, sometimes at the expense of accuracy. A man who coaches writers for talk shows offered one client this advice: “If I ask you whether the budget deficit is a good thing or a bad thing, you should not say, ‘Well, it stimulates the economy but it passes on a burden.’ You have to say ‘It’s a great idea!’ or ‘It’s a terrible idea!’ It doesn’t matter which.”2 ( _Translation_ : ”Don’t give a balanced answer. Give an oversimplified one because it will get you noticed.”)
+Even when writers of serious books do manage to become published authors, they are often directed to give short, dramatic answers during promotional interviews, sometimes at the expense of accuracy. A man who coaches writers for talk shows offered one client this advice: “If I ask you whether the budget deficit is a good thing or a bad thing, you should not say, ‘Well, it stimulates the economy but it passes on a burden.’ You have to say ‘It’s a great idea!’ or ‘It’s a terrible idea!’ It doesn’t matter which.” ( _Translation_ : ”Don’t give a balanced answer. Give an oversimplified one because it will get you noticed.”)
 
 Print journalism is also in the grip of sensationalism. As a newspaper editor observed, “Journalists keep trying to find people who are at 1 or at 9 on a scale of 1 to 10 rather than people at 3 to 7 [the more moderate positions] where most people actually are.”3 Another journalist claims, “News is now becoming more opinion than verified fact. Journalists are slipping into entertainment rather than telling us the verified facts we need to know.”
 
@@ -65,7 +64,7 @@ Today’s politicians often manipulate people more offensively than do journalis
 
 ### The “Science” of Manipulation
 
-Attempts to influence the thoughts and actions of others are no doubt as old as time, but manipulation did not become a science until the early twentieth century, when Ivan Pavlov, a Russian professor of psychology, published his research on conditioned (learned) reflexes. Pavlov found that by ringing a bell when he fed a dog, he could condition the dog to drool at the sound of the bell even when no food was presented. An American psychologist, John Watson, was impressed with Pavlov’s findings and applied them to human behavior. In Watson’s most famous experiment, he let a baby touch a laboratory rat. At first, the baby was unafraid. But then Watson hit a hammer against metal whenever the baby reached out to touch the rat, and the baby became frightened and cried. In time, the baby cried not only at the sight of the rat but also at the sight of anything furry, such as a stuffed animal.* Watson’s work earned him the title “father of behaviorism.”
+Attempts to influence the thoughts and actions of others are no doubt as old as time, but manipulation did not become a science until the early twentieth century, when Ivan Pavlov, a Russian professor of psychology, published his research on conditioned (learned) reflexes. Pavlov found that by ringing a bell when he fed a dog, he could condition the dog to drool at the sound of the bell even when no food was presented. An American psychologist, John Watson, was impressed with Pavlov’s findings and applied them to human behavior. In Watson’s most famous experiment, he let a baby touch a laboratory rat. At first, the baby was unafraid. But then Watson hit a hammer against metal whenever the baby reached out to touch the rat, and the baby became frightened and cried. In time, the baby cried not only at the sight of the rat but also at the sight of anything furry, such as a stuffed animal. Watson’s work earned him the title “father of behaviorism.”
 
 Less well known is Watson’s application of behaviorist principles to advertising. He spent the latter part of his career working for advertising agencies and soon recognized that the most effective appeal to consumers was not to the mind but to the emotions. He advised advertisers to “tell [the consumer] something that will tie him up with fear, something that will stir up a mild rage, that will call out an affectionate or love response, or strike at a deep psychological or habit need.” His attitude toward the consumer is perhaps best indicated by a statement he made in a presentation to department store executives: “The consumer is to the manufacturer, the department stores and the advertising agencies, what the green frog is to the physiologist.”
 
@@ -73,9 +72,9 @@ Watson introduced these strategies in the 1920s and 1930s, the age of newspapers
 
 Similarly, research has shown that human memory can be manipulated. The way a question is asked can change the details in a person’s memory and even make a person _remember something that never happened_!
 
-Of course, advertisers and people with political or social agendas are not content to stimulate emotions and/or plant ideas in our minds. They also seek to reinforce those impressions by repeating them again and again. The more people hear a slogan or talking point, the more familiar it becomes. Before long, it becomes indistinguishable from ideas developed through careful thought. Sadly, “the packaging is often done so effectively that the viewer, listener, or reader does not make up his own mind at all. Instead, he inserts a packaged opinion into his mind, somewhat like inserting a DVD into a DVD player. He then pushes a button and ‘plays back’ the opinion whenever it seems appropriate to do so. He has performed acceptably without having had to think.”9 Many of the beliefs we hold dearest and defend most vigorously may have been planted in our minds in just this way.
+Of course, advertisers and people with political or social agendas are not content to stimulate emotions and/or plant ideas in our minds. They also seek to reinforce those impressions by repeating them again and again. The more people hear a slogan or talking point, the more familiar it becomes. Before long, it becomes indistinguishable from ideas developed through careful thought. Sadly, “the packaging is often done so effectively that the viewer, listener, or reader does not make up his own mind at all. Instead, he inserts a packaged opinion into his mind, somewhat like inserting a DVD into a DVD player. He then pushes a button and ‘plays back’ the opinion whenever it seems appropriate to do so. He has performed acceptably without having had to think.” Many of the beliefs we hold dearest and defend most vigorously may have been planted in our minds in just this way.
 
-Many years ago, Harry A. Overstreet noted that “a climate of opinion, like a physical climate, is so pervasive a thing that those who live within it and know no other take it for granted.”0 The rise of mass culture and the sophisticated use of manipulation have made this insight more relevant today than ever.
+Many years ago, Harry A. Overstreet noted that “a climate of opinion, like a physical climate, is so pervasive a thing that those who live within it and know no other take it for granted.” The rise of mass culture and the sophisticated use of manipulation have made this insight more relevant today than ever.
 
 ### The Influence of Psychology
 
@@ -130,15 +129,15 @@ _Note: One of the best ways to develop your thinking (and writing) skills is to 
    d. Freshman composition should be a required course for all students.
    e. High school and college athletes should be tested for anabolic steroid use.
    f. Creationism should be taught in high school biology classes.
-g. Polygamy should be legalized.
-h. The voting age should be lowered to sixteen.
-i. The prison system should give greater emphasis to the punishment of in
-mates than to their rehabilitation.
-j. Doctors and clinics should be required to notify parents of minors when
-they prescribe birth control devices or facilitate abortions for the minors.
-k. A man’s self-esteem is severely injured if his wife makes more money
-than he makes.
-l. Women like being dependent on men.
+   g. Polygamy should be legalized.
+   h. The voting age should be lowered to sixteen.
+   i. The prison system should give greater emphasis to the punishment of in
+   mates than to their rehabilitation.
+   j. Doctors and clinics should be required to notify parents of minors when
+   they prescribe birth control devices or facilitate abortions for the minors.
+   k. A man’s self-esteem is severely injured if his wife makes more money
+   than he makes.
+   l. Women like being dependent on men.
 
 10. _Group discussion exercise:_ Discuss several of the statements in application 9 with two or three of your classmates, applying the four guidelines presented in this chapter for developing individuality. Be prepared to share your group’s ideas with the class.
 
