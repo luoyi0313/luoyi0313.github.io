@@ -108,3 +108,40 @@ In light of what we have discussed, we should regard individuality not as someth
 4. _Ask yourself whether one of the other reactions is more appropriate than your first reaction._ And when you answer, resist the influence of your conditioning.
 
 To ensure that you will really be an individual and not merely claim to be one, apply these guidelines throughout your work in this book, as well as in your everyday life.
+
+
+
+## Chapter 2 What Is Critical Thinking?
+
+When Arthur was in the first grade, the teacher directed the class to “think.” “Now, class,” she said, “I know this problem is a little harder than the ones we’ve been doing, but I’m going to give you a few extra minutes to think about it. Now start thinking.”
+
+It was not the first time Arthur had heard the word used. He’d heard it many times at home, but never quite this way. The teacher seemed to be asking for some special activity, something he should know how to start and stop—like his father’s car. “Vroom-m-m,” he muttered half aloud. Because of his confusion, he was unaware he was making the noise.
+
+“Arthur, please stop making noises and start thinking.”
+
+Embarrassed and not knowing quite what to do, he looked down at his desk. Then, out of the corner of his eye, he noticed that the little girl next to him was staring at the ceiling. “Maybe that’s the way you start thinking,” he guessed. He decided the others had probably learned how to do it last year, that time he was home with the measles. So he stared at the ceiling.
+
+As he progressed through grade school and high school, he heard that same direction hundreds of times. “No, that’s not the answer, you’re not thinking—now _think!_ ” And occasionally he would hear from particularly self-pitying teachers given to muttering to themselves aloud: “What did I do to deserve this? Don’t they teach them anything in the grades anymore? Don’t you people care about ideas? Think, dammit, THINK.”
+
+So Arthur learned to feel somewhat guilty about the whole matter. Obviously, this thinking was an important activity that he’d failed to learn. Maybe he lacked the brain power. But he was resourceful enough. He watched the other students and did what they did. Whenever a teacher started in about thinking, he screwed up his face, furrowed his brow, scratched his head, stroked his chin, stared off into space or up at the ceiling, and repeated silently to himself, “Let’s see now, I’ve got to think about that, think, think—I hope he doesn’t call on me—think.” Though Arthur didn’t know it, that’s just what the other students were saying to themselves.
+
+Your experience may have been similar to Arthur’s. In other words, many people may have simply told you to think without ever explaining what thinking is and what qualities a good thinker has that a poor thinker lacks. If that is the case, you have a lot of company. Extensive, effective training in thinking is the exception rather than the rule. This fact and its unfortunate consequences are suggested by the following comments from accomplished observers of the human condition:
+
+> The most interesting and astounding contradiction in life is to me the constant insistence by nearly all people upon “logic,” “logical reasoning,” “sound reasoning,” on the one hand, and on the other their inability to display it, and their unwillingness to accept it when displayed by others.
+>
+> Most of our so-called reasoning consists in finding arguments for going on believing as we already do.
+>
+> Clear thinking is a very rare thing, but even just plain thinking is almost as rare. Most of us most of the time do not think at all. We believe and we feel, but we do not think.
+>
+> Mental indolence is one of the commonest of human traits.
+
+What is this activity that everyone claims is important but few people have mastered? Thinking is a general term used to cover numerous activities, from daydreaming to reflection and analysis. Here are just some of the synonyms listed in Roget’s Thesaurus for think:
+
+> appreciate consult fancy reason 
+> believe contemplate imagine reflect 
+> cerebrate deliberate meditate ruminate 
+> cogitate digest muse speculate 
+> conceive discuss ponder suppose 
+> consider dream realize weigh
+
+All of those are just the _names_ that thinking goes under. They really don’t explain it. The fact is, after thousands of years of humans’ experiencing thought and talking and writing about thinking, it remains in many respects one of the great mysteries of our existence. Still, though much is yet to be learned, a great deal is already known.
