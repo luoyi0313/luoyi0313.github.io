@@ -1,5 +1,4 @@
-
-* Getting started
-
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
+* [Cover](/)
+* Language
+  * [中文](/cn/)
+  * [English](/en/)
