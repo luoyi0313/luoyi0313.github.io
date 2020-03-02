@@ -145,3 +145,15 @@ What is this activity that everyone claims is important but few people have mast
 > consider dream realize weigh
 
 All of those are just the _names_ that thinking goes under. They really don’t explain it. The fact is, after thousands of years of humans’ experiencing thought and talking and writing about thinking, it remains in many respects one of the great mysteries of our existence. Still, though much is yet to be learned, a great deal is already known.
+
+### Mind, Brain, or Both?
+
+Most modern researchers use the word _mind_ synonymously with _brain,_ as if the physical organ that resides in the human skull were solely responsible for thinking. This practice conveniently presupposes that a problem that has challenged the greatest thinkers for millennia—the relationship between mind and physical matter—was somehow solved when no one was looking. The problem itself and the individuals who spent their lives wrestling with it deserve better.
+
+Neuroscience has provided a number of valuable insights into the cognitive or thinking activities of the brain. It has documented that the left hemisphere of the brain deals mainly with detailed language processing and is associated with analysis and logical thinking, that the right hemisphere deals mainly with sensory images and is associated with in tuition and creative thinking, and that the small bundle of nerves that lies between the hemispheres—the corpus callosum—integrates the various functions.
+
+The research that produced these insights showed that the brain is _necessary_ for thought, but it has not shown that the brain is _sufficient_ for thought. In fact, many philosophers claim it can never show that. They argue that the mind and the brain are demonstrably different. Whereas the brain is a _physical_ entity composed of matter and therefore subject to decay, the mind is a _metaphysical_ entity. Examine brain cells under the most powerful microscope and you will never see an idea or concept— for example, beauty, government, equality, or love—because ideas and concepts are not material entities and so have no physical dimension. Where, then, do these nonmaterial things reside? In the nonmaterial mind.
+
+The late American philosopher William Barrett observed that “history is, fundamentally, the adventure of human consciousness” and “the fundamental history of humankind is the history of mind.” In his view, “one of the supreme ironies of modern history” is the fact that science, which owes its very existence to the human mind, has had the audacity to deny the reality of the mind. As he put it, “the offspring denies the parent.”
+
+The argument over whether the mind is a reality is not the only issue about the mind that has been hotly debated over the centuries. One especially important issue is whether the mind is _passive,_ a blank slate on which experience writes, as John Locke held, or _active,_ a vehicle by which we take the initiative and exercise our free will, as G. W. Leibnitz argued. This book is based on the latter view.
