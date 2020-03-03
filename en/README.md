@@ -157,3 +157,38 @@ The research that produced these insights showed that the brain is _necessary_ f
 The late American philosopher William Barrett observed that “history is, fundamentally, the adventure of human consciousness” and “the fundamental history of humankind is the history of mind.” In his view, “one of the supreme ironies of modern history” is the fact that science, which owes its very existence to the human mind, has had the audacity to deny the reality of the mind. As he put it, “the offspring denies the parent.”
 
 The argument over whether the mind is a reality is not the only issue about the mind that has been hotly debated over the centuries. One especially important issue is whether the mind is _passive,_ a blank slate on which experience writes, as John Locke held, or _active,_ a vehicle by which we take the initiative and exercise our free will, as G. W. Leibnitz argued. This book is based on the latter view.
+
+### Critical Thinking Defined
+
+Let’s begin by making the important distinction between thinking and feeling. _I feel_ and _I think_ are sometimes used interchangeably, but that practice causes confusion. Feeling is a subjective response that reflects emotion, sentiment, or desire; it generally occurs spontaneously rather than through a conscious mental act. We don’t have to employ our minds to feel angry when we are insulted, afraid when we are threatened, or compassionate when we see a picture of a starving child. The feelings arise automatically.
+
+Feeling is useful in directing our attention to matters we should think about; it also can provide the enthusiasm and commitment necessary to complete arduous mental tasks. However, feeling is never a good substitute for thinking because it is notoriously unreliable. Some feelings are beneficial, honorable, even noble; others are not, as everyday experience demonstrates. We often feel like doing things that will harm us—for example, smoking, sunbathing without sunscreen, telling off our professor or employer, or spending the rent money on lottery tickets.
+
+Zinedine Zidane was one of the greatest soccer players of his generation, and many experts believed that in his final season (2006) he would lead France to the pinnacle of soccer success—winning the coveted World Cup. But then, toward the end of the championship game against Italy, he viciously head-butted an Italian player in full view of hundreds of mil lions of people. The referee banished him from the field, France lost the match, and _a single surrender to feeling_ forever stained the brilliant career Zidane had dedicated his life to building.
+
+In contrast to feeling, thinking is a conscious mental process performed to solve a problem, make a decision, or gain understanding.* Whereas feeling has no purpose beyond expressing itself, thinking aims beyond itself to knowledge or action. This is not to say that thinking is infallible; in fact, a good part of this book is devoted to exposing errors in thinking and showing you how to avoid them. Yet for all its shortcomings, thinking is the most reliable guide to action we humans possess. To sum up the relationship between feeling and thinking, feelings need to be tested before being trusted, and thinking is the most reasonable and reliable way to test them.
+
+There are three broad categories of thinking: reflective, creative, and critical. The focus of this book is on critical thinking. The essence of critical thinking is _evaluation_. Critical thinking, therefore, may be defined as the process by which we test claims and arguments and determine which have merit and which do not. In other words, critical thinking is a search for answers, a _quest_. Not surprisingly, one of the most important techniques used in critical thinking is asking probing _questions_. Where the uncritical accept their first thoughts and other people’s statements at face value, critical thinkers challenge all ideas in this manner:
+
+Thought 1: Professor Vile cheated me in my composition grade. He weighted some themes more heavily than others.
+Question 1: Did he grade everyone on the same standard? Were the different weightings justified?
+
+Thought 2: Before women entered the work force, there were fewer divorces. That shows that a woman’s place is in the home.
+Question 2: How do you know that this factor, and not some other one(s), is responsible for the increase in divorces?
+
+Thought 3: A college education isn’t worth what you pay for it. Some people never reach a salary level appreciably higher than the level they would have reached without the degree.
+Question 3: Is money the only measure of the worth of an education? What about increased understanding of self and life and increased ability to cope with challenges?
+
+Critical thinking also employs questions to analyze issues. Consider, for example, the subject of values. When it is being discussed, some people say, “Our country has lost its traditional values” and “There would be less crime, especially violent crime, if parents and teachers emphasized moral values.” Critical thinking would prompt us to ask,
+
+1. What is the relationship between values and beliefs? Between values and convictions?
+
+2. Are all values _valuable_?
+
+3. How aware is the average person of his or her values? Is it possible that many people deceive themselves about their real values?
+
+4. Where do one’s values originate? Within the individual or outside? In thought or in feeling?
+
+5. Does education change a person’s values? If so, is this change always for the better?
+
+6. Should parents and teachers attempt to shape children’s values?
