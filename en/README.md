@@ -208,32 +208,59 @@ We have already noted one characteristic of critical thinkers—skill in asking 
 Here are some additional characteristics of critical thinkers, as contrasted with those of uncritical thinkers:
 
 > *Critical Thinkers*
+>
 > Are honest with themselves, acknowledging what they don’t know, recognizing their limitations, and being watchful of their own errors.
+>
 > *Uncritical Thinkers*
+>
 > Pretend they know more than they do, ignore their limitations, and assume their views are error-free.
+>
 > *Critical Thinkers*
+>
 > Regard problems and controversial issues as exciting challenges.
+>
 > *Uncritical Thinkers*
+>
 > Regard problems and controversial issues as nuisances or threats to their ego.
+>
 > *Critical Thinkers*
+>
 > Strive for understanding, keep curiosity alive, remain patient with complexity, and are ready to invest time to overcome confusion.
+>
 > *Uncritical Thinkers*
+>
 > Are impatient with complexity and thus would rather remain confused than make the effort to understand.
+>
 > *Critical Thinkers*
+>
 > Base judgments on evidence rather than personal preferences, deferring judgment whenever evidence is insufficient. They revise judgments when new evidence reveals error.
+>
 > *Uncritical Thinkers*
+>
 > Base judgments on first impressions and gut reactions. They are unconcerned about the amount or quality of evidence and cling to their views steadfastly.
+>
 > *Critical Thinkers*
+>
 > Are interested in other people’s ideas and so are willing to read and listen attentively, even when they tend to disagree with the other person.
+>
 > *Uncritical Thinkers*
+>
 > Are preoccupied with themselves and their own opinions and so are unwilling to pay attention to others’ views. At the first sign of disagreement, they tend to think, “How can I refute this?”
+>
 > *Critical Thinkers*
+>
 > Recognize that extreme views (whether conservative or liberal) are seldom correct, so they avoid them, practice fairmindedness, and seek a balanced view.
+>
 > *Uncritical Thinkers*
+>
 > Ignore the need for balance and give preference to views that support their established views.
+>
 > *Critical Thinkers*
+>
 > Practice restraint, controlling their feelings rather than being controlled by them, and thinking before acting.
+>
 > *Uncritical Thinkers*
+>
 > Tend to follow their feelings and act impulsively.
 
 As the desirable qualities suggest, critical thinking depends on mental discipline. Effective thinkers exert control over their mental life, direct their thoughts rather than being directed by them, and withhold their endorsement of any idea—even their own—until they have tested and confirmed it. John Dewey equated this mental discipline with freedom. That is, he argued that people who do not have it are not free persons but slaves to whim or circumstance:
