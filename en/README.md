@@ -6,7 +6,7 @@ Your attitudes couldn’t be overlooked either—your impatience when an issue g
 
 To provide all that information would be quite a chore. But suppose the questioner was still curious and asked, “How did you get the way you are?” If your patience were not yet exhausted, chances are you’d answer something like this: “I’m this way because I choose to be, because I’ve considered other sentiments and preferences and attitudes and have made my selections. The ones I have chosen fit my style and personality best.” That answer is natural enough, and in part it’s true. But in a larger sense, it’s not true. The impact of the world on all of us is much greater than most of us realize.
 
-### The Influence of Time and Place
+### 1.1 The Influence of Time and Place
 
 Not only are you a member of a particular species, _Homo sapiens_ , but you also exist at a particular time in the history of that species and in a particular place on the planet. That time and place are defined by specific circumstances, understandings, beliefs, and customs, all of which limit your experience and influence your thought patterns. If you had lived in America in colonial times, you likely would have had no objection to the practice of barring women from serving on a jury, entering into a legal contract, owning property, or voting. If you had lived in the nineteenth century, you would have had no objection to young children being denied an education and being hired out by their parents to work sixteen hours a day, nor would you have given any thought to the special needs of adolescence. (The concept of adolescence was not invented until 1904.)
 
@@ -16,7 +16,7 @@ People who grow up in Europe, Asia, or South America have very different ideas o
 
 To sum up, living in a different age or culture would make you a different person. Even if you rebelled against the values of your time and place, they still would represent the context of your life—in other words, they still would influence your responses.
 
-### The Influence of Ideas
+### 1.2 The Influence of Ideas
 
 When one idea is expressed, closely related ideas are simultaneously conveyed, logically and inescapably. In logic, this kinship is expressed by the term _sequitur,_ Latin for “it follows.” (The converse is _non sequitur,_ “it does not follow.”)
 
@@ -44,7 +44,7 @@ These are the most obvious effects of hereditarianism but they are certainly not
 
 The innumerable ideas you have encountered will affect your beliefs and behavior in similar ways––sometimes slightly, at other times profoundly. And this can happen even if you have not consciously embraced the ideas.
 
-### The Influence of Mass Culture
+### 1.3 The Influence of Mass Culture
 
 In centuries past, family and teachers were the dominant, and sometimes the only, influence on children. Today, however, the influence exerted by mass culture (the broadcast media, newspapers, magazines, Internet and popular music) often is greater.
 
@@ -62,7 +62,7 @@ Print journalism is also in the grip of sensationalism. As a newspaper editor ob
 
 Today’s politicians often manipulate people more offensively than do journalists. Instead of expressing their thoughts, some politicians find out what people think and pretend to share their ideas. Many politicians hire people to conduct polls and focus groups to learn what messages will “sell.” They even go so far as to test the impact of certain words—that is why we hear so much about “trust,” “family,” “character,” and “values” these days. Political science professor Larry Sabato says that during the Clinton impeachment trial, the president’s advisors used the term _private lives_ over and over—James Carville used it six times in one four-minute speech—because they knew it could persuade people into believing the president’s lying under oath was of no great consequence.
 
-### The “Science” of Manipulation
+### 1.4 The “Science” of Manipulation
 
 Attempts to influence the thoughts and actions of others are no doubt as old as time, but manipulation did not become a science until the early twentieth century, when Ivan Pavlov, a Russian professor of psychology, published his research on conditioned (learned) reflexes. Pavlov found that by ringing a bell when he fed a dog, he could condition the dog to drool at the sound of the bell even when no food was presented. An American psychologist, John Watson, was impressed with Pavlov’s findings and applied them to human behavior. In Watson’s most famous experiment, he let a baby touch a laboratory rat. At first, the baby was unafraid. But then Watson hit a hammer against metal whenever the baby reached out to touch the rat, and the baby became frightened and cried. In time, the baby cried not only at the sight of the rat but also at the sight of anything furry, such as a stuffed animal. Watson’s work earned him the title “father of behaviorism.”
 
@@ -76,7 +76,7 @@ Of course, advertisers and people with political or social agendas are not conte
 
 Many years ago, Harry A. Overstreet noted that “a climate of opinion, like a physical climate, is so pervasive a thing that those who live within it and know no other take it for granted.” The rise of mass culture and the sophisticated use of manipulation have made this insight more relevant today than ever.
 
-### The Influence of Psychology
+### 1.5 The Influence of Psychology
 
 The social and psychological theories of our time also have an impact on our beliefs. Before the past few decades, people were urged to be self disciplined, self-critical, and self-effacing. They were urged to practice self denial, to aspire to self-knowledge, to behave in a manner that ensured they maintained self-respect. Self-centeredness was considered a vice. “Hard work,” they were told, “leads to achievement, and that in turn produces satisfaction and self-confidence.” By and large, our grandparents internalized those teachings. When they honored them in their behavior, they felt proud; when they dishonored them, they felt ashamed.
 
@@ -98,7 +98,7 @@ Finding meaning, according to Frankl’s theory, involves “perceiving a possib
 
 Whether we agree completely with Frankl, one thing is clear: Contemporary American culture would be markedly different if the emphasis over the past several decades had been on Frankl’s theory rather than on the theories of Maslow and the other humanistic psychologists. All of us would have been affected—we can only imagine how profoundly—in our attitudes, values, and beliefs.
 
-### Becoming an Individual
+### 1.6 Becoming an Individual
 
 In light of what we have discussed, we should regard individuality not as something we are born with but rather as something acquired—or, more precisely, _earned._ Individuality begins in the realization that it is impossible to escape being influenced by other people and by circumstance. The essence of individuality is vigilance. The following guidelines will help you achieve this:
 
@@ -146,7 +146,7 @@ What is this activity that everyone claims is important but few people have mast
 
 All of those are just the _names_ that thinking goes under. They really don’t explain it. The fact is, after thousands of years of humans’ experiencing thought and talking and writing about thinking, it remains in many respects one of the great mysteries of our existence. Still, though much is yet to be learned, a great deal is already known.
 
-### Mind, Brain, or Both?
+### 2.1 Mind, Brain, or Both?
 
 Most modern researchers use the word _mind_ synonymously with _brain,_ as if the physical organ that resides in the human skull were solely responsible for thinking. This practice conveniently presupposes that a problem that has challenged the greatest thinkers for millennia—the relationship between mind and physical matter—was somehow solved when no one was looking. The problem itself and the individuals who spent their lives wrestling with it deserve better.
 
@@ -158,7 +158,7 @@ The late American philosopher William Barrett observed that “history is, funda
 
 The argument over whether the mind is a reality is not the only issue about the mind that has been hotly debated over the centuries. One especially important issue is whether the mind is _passive,_ a blank slate on which experience writes, as John Locke held, or _active,_ a vehicle by which we take the initiative and exercise our free will, as G. W. Leibnitz argued. This book is based on the latter view.
 
-### Critical Thinking Defined
+### 2.2 Critical Thinking Defined
 
 Let’s begin by making the important distinction between thinking and feeling. _I feel_ and _I think_ are sometimes used interchangeably, but that practice causes confusion. Feeling is a subjective response that reflects emotion, sentiment, or desire; it generally occurs spontaneously rather than through a conscious mental act. We don’t have to employ our minds to feel angry when we are insulted, afraid when we are threatened, or compassionate when we see a picture of a starving child. The feelings arise automatically.
 
@@ -193,7 +193,7 @@ Critical thinking also employs questions to analyze issues. Consider, for exampl
 
 6. Should parents and teachers attempt to shape children’s values?
 
-### Characteristics of Critical Thinkers
+### 2.3 Characteristics of Critical Thinkers
 
 A number of misconceptions exist about critical thinking. One is that being able to support beliefs with reasons makes one a critical thinker. Virtually everyone has reasons, however weak they may be. The test of critical thinking is whether the reasons are good and sufficient.
 
@@ -266,3 +266,21 @@ Here are some additional characteristics of critical thinkers, as contrasted wit
 As the desirable qualities suggest, critical thinking depends on mental discipline. Effective thinkers exert control over their mental life, direct their thoughts rather than being directed by them, and withhold their endorsement of any idea—even their own—until they have tested and confirmed it. John Dewey equated this mental discipline with freedom. That is, he argued that people who do not have it are not free persons but slaves to whim or circumstance:
 
 > If a man’s actions are not guided by thoughtful conclusions, then they are guided by inconsiderate impulse, unbalanced appetite, caprice, or the circumstances of the moment. To cultivate unhindered, unreflective external activity is to foster enslavement, for it leaves the person at the mercy of appetite, sense, and circumstance.
+
+### 2.4 The Role of Intuition
+
+Intuition is commonly defined as immediate perception or comprehension of something—that is, sensing or understanding something _without the use of reasoning._ Some everyday experiences seem to support this definition. You may have met a stranger and instantly “known” that you would be partners for life. When a car salesman told you that the price he was quoting you was his final, rock-bottom price, your intuition may have told you he was lying. On the first day of a particular course, you may have had a strong sense that you would not do well in it.
+
+Some important discoveries seem to have occurred instantaneously. For example, the German chemist Kekule found the solution to a difficult chemical problem intuitively. He was very tired when he slipped into a daydream. The image of a snake swallowing its tail came to him—and that provided the clue to the structure of the benzene molecule, which is a ring, rather than a chain, of atoms. The German writer Goethe had been experiencing great difficulty organizing a large mass of material for one of his works when he learned of the tragic suicide of a close friend. At that very instant, the plan for organizing his material occurred to him in detail. The English writer Samuel Taylor Coleridge (you may have read his _Rime of the Ancient Mariner_ in high school) awoke from a dream with 200–300 lines of a new and complex poem clearly in mind.
+
+Such examples seem to suggest that intuition is very different from reasoning and is not influenced by it. But before accepting that conclusion, consider these facts:
+
+> Breakthrough ideas favor trained, active minds. It is unusual for someone totally untrained in a subject to make a significant new discovery about it. Thus, if Kekule had been a plumber, Goethe a book keeper, and Coleridge a hairdresser, they would almost certainly not have received the intuitions for which they are famous.
+>
+> Some intuitions eventually prove to be mistaken. That attractive stranger may turn out to be not your lifelong partner but a person for whom you develop a strong dislike. The car salesman’s final price may have proved to be exactly that. And instead of doing poorly in that course, you may have done well.
+>
+> It is difficult to make an overall assessment of the quality of our intuitions because we tend to forget the ones that prove mistaken in much the same way a gambler forgets his losses.
+
+These facts have led some scholars to conclude that intuition is simply a consequence of thinking. They would say that something about the stranger appealed to you, something the salesman said or did suggested insincerity, something about the professor frightened you. In each case, they would explain, you made a quick decision—so quick, in fact, that you were unaware that you’d been thinking. In the case of the break through ideas, the scholars would say that when people become engrossed in problems or issues, their unconscious minds often continue working on them long after they have turned their attention elsewhere. Thus, when an insight seems to come “out of nowhere,” it is actually a delayed result of thinking.
+
+Which view of intuitions is the correct one? Are intuitions different from and independent of thinking or not? Perhaps, for now, the most prudent answer is that sometimes they are independent and sometimes they are not; we can’t be sure when they are, and therefore it is imprudent to rely on them.
