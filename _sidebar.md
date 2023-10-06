@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [顶部](/)
-* [Guide](c语言.md)
+* [c语言加强](c语言.md)
 
