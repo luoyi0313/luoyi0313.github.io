@@ -1,7 +1,5 @@
 # Headline
 
-> An awesome project. jiadiandongxi
+> An awesome project.
 
-## hello my love
-[么么哒](https://luoyi0313.github.io/#/special/xiaoyang.html)
 
