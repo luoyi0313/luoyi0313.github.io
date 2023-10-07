@@ -1,5 +1,36 @@
 ## [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
 
+### 标准解：双指针
+
+```c
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
+
+
+struct ListNode* removeNthFromEnd(struct ListNode* head, int n){
+    struct ListNode newNode = {0, head};
+    struct ListNode *first, *second;
+
+    first = second = &newNode;
+    for (int i = 0; i <= n; ++i) first = first->next;
+    while (first != NULL) {
+        first = first->next;
+        second = second->next;
+    }
+    second->next = second->next->next;
+    return newNode.next;
+}
+```
+
+
+
+### 普通解
+
 ```c
 /**
  * Definition for singly-linked list.
